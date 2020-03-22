@@ -1,2 +1,3 @@
 rootProject.name='MyL ibrary'
 include ':app'
+include ':app:mujahid'
